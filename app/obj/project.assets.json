@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hyqho\\Desktop\\C#\\CsharpTutorial\\test\\test.csproj",
-      "projectName": "test",
-      "projectPath": "C:\\Users\\hyqho\\Desktop\\C#\\CsharpTutorial\\test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\hyqho\\Desktop\\C#\\CsharpTutorial\\app\\app.csproj",
+      "projectName": "app",
+      "projectPath": "C:\\Users\\hyqho\\Desktop\\C#\\CsharpTutorial\\app\\app.csproj",
       "packagesPath": "C:\\Users\\hyqho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hyqho\\Desktop\\C#\\CsharpTutorial\\test\\obj\\",
+      "outputPath": "C:\\Users\\hyqho\\Desktop\\C#\\CsharpTutorial\\app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hyqho\\AppData\\Roaming\\NuGet\\NuGet.Config",
