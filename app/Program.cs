@@ -32,6 +32,34 @@ namespace Program  //a higher abstraction from a class
             Console.ReadLine();
         }
     }
+
+    public class type()
+    {
+        public void hello()
+        {
+            var a = 1;   //type var refrence to the right
+            var b = "hello"; 
+            var c = new int[100];
+
+            //array
+            int[] list = new int[10]; //fix length
+            list[0];
+            list.Count();   // ****.Count()*****
+
+            //list 
+            var happy = new List<String> { }; //variable length;
+            happy.Add("hello");
+            happy.Remove("hello");
+
+            happy.Count;
+            happy.IndexOf("hello"); // if not exist return -1;
+
+
+
+        }
+
+
+    }
 }
 
 
